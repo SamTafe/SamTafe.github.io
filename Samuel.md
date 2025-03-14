@@ -1,4 +1,4 @@
 ###Profile
-- **Started**: 13th March 2025
-- **Role**: Student
-- **Hobbies**: Gaming, Exercising
+- **Started**: 14th March 2025
+- **Role**: Enrolment Advisor
+- **Hobbies**: Gaming, Sleeping
